@@ -36,7 +36,7 @@ Run the game:
 ```
 
 ```
-python hangman.py
+python milestone_5.py
 ```
 ## Usage
 Upon running the game, you will be prompted to guess a letter.
@@ -49,15 +49,9 @@ Keep guessing letters to complete the word before running out of attempts.
 
 ## File Structure
 The project directory contains the following files:
-hangman/
-│
-├── hangman.py
-├── words.txt
-├── README.md
-│
-└── LICENSE
-hangman.py: The main Python script for playing the Hangman game.
-words.txt: A list of words that the game randomly selects for guessing.
+
+ milestone_5.py: The main Python script for playing the Hangman game.
+
 README.md: This file, providing information about the project.
 LICENSE: The license file for this project (MIT License).
 License
